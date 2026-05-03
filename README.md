@@ -79,8 +79,7 @@ struct developer me = {
     </td>
     <td>
       • <a href="https://github.com/alparslanaslan1/c-2d-game-engine">so_long</a><br/>
-      • <a href="https://github.com/alparslanaslan1/raycasting-3d-engine">cub3d</a><br/>
-      • <a href="https://github.com/alparslanaslan1/raycasting-3d-engine-2">miniRT</a>
+      • <a href="https://github.com/alparslanaslan1/raycasting-3d-engine">cub3d</a>
     </td>
     <td>
       • <a href="https://github.com/alparslanaslan1/chat-server-irc">ft_irc</a><br/>
@@ -157,12 +156,6 @@ struct developer me = {
 ---
 
 <div align="center">
-
-<a href="https://github.com/alparslanaslan1">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
 
 <sub><i>"Premature optimization is the root of all evil."</i> — Donald Knuth</sub>
 
