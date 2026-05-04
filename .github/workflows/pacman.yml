@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   schedule:
@@ -15,14 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Generate pacman animation
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: alparslanaslan1
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          outputs_path: dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

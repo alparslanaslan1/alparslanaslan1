@@ -106,12 +106,12 @@ struct developer me = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alparslanaslan1/alparslanaslan1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alparslanaslan1/alparslanaslan1/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alparslanaslan1/alparslanaslan1/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alparslanaslan1/alparslanaslan1/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alparslanaslan1/alparslanaslan1/output/pacman-contribution-graph.svg" />
+  <img alt="pacman eating my contributions" src="https://raw.githubusercontent.com/alparslanaslan1/alparslanaslan1/output/pacman-contribution-graph.svg" />
 </picture>
 
-<sub>auto-generated every 12 hours · <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+<sub>auto-generated every 12 hours · <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a></sub>
 
 <br/><br/>
 
