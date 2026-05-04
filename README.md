@@ -28,29 +28,6 @@ struct developer me = {
 };
 ```
 
-> **Now** &nbsp;·&nbsp; learning Flutter through <a href="https://github.com/alparslanaslan1/ng_learning">ng_learning</a>, shipping side projects in TypeScript ([42forum](https://github.com/alparslanaslan1/42forum), [karasuvizyondogalgaz](https://github.com/alparslanaslan1/karasuvizyondogalgaz)), maintaining the [pet-5202](https://github.com/alparslanaslan1/pet-5202) Flutter app.
-
----
-
-### <samp>~/featured</samp>
-
-<div align="center">
-
-<a href="https://github.com/alparslanaslan1/42forum">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alparslanaslan1&repo=42forum&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00babc&icon_color=00babc&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/alparslanaslan1/raycasting-3d-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alparslanaslan1&repo=raycasting-3d-engine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00babc&icon_color=00babc&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/alparslanaslan1/chat-server-irc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alparslanaslan1&repo=chat-server-irc&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00babc&icon_color=00babc&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/alparslanaslan1/dockerized-wordpress-stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alparslanaslan1&repo=dockerized-wordpress-stack&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00babc&icon_color=00babc&text_color=c9d1d9" />
-</a>
-
-</div>
-
 ---
 
 ### <samp>~/42_common_core</samp>
